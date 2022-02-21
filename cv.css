@@ -1,0 +1,159 @@
+body {
+    background-color: lightblue;
+}
+
+  h3{
+      font-family: Andale mono, monospace;
+  }
+
+.principal{
+    background-color: white;
+    margin: 0 300px 0 300px;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 70%;
+    border-radius: 0%;
+}
+
+.lado_esquerdo{
+    background-color: #003464;
+}
+
+.lado_direito{ 
+
+
+}
+
+.foto_perfil{
+   margin: 50px 25% 50px 25%;
+   border-radius: 50%;
+}
+
+.titulo_contato{
+    color: white;
+    text-align: center;
+    text transform: uppercase;
+}
+
+.material-icons.icone_branco{
+    color: white;
+}
+
+.bloco_informacao{
+    display: flex;
+    flex-direction: row;
+    margin-left: 60px;
+    margin-bottom: 16px;
+    width: 100%;
+}
+
+.descricao{
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: Andale mono, monospace;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.titulo_habilidades{
+   color: white;
+   display: flex;
+   flex-direction: row;
+   margin-top: 80px;
+   margin-left: 60px;
+   margin-bottom: 16px;
+   width: 100%;
+   
+}
+
+.ingles {
+    display: flex;
+    flex-direction: row;
+    margin-left: 60px;
+    margin-bottom: 16px;
+    width: 100%;
+   
+
+}
+
+.descricao_espanhol {
+
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: Andale mono, monospace;
+    align-items: center;
+    margin-right: 10px;
+
+
+}
+
+.espanhol {
+
+    display: flex;
+    flex-direction: row;
+    margin-left: 60px;
+    margin-bottom: 16px;
+    width: 100%;
+   
+}
+
+.minha_bio {
+
+    font-family: 'Segoe UI', Tahoma;
+    margin-left: 15px;
+    text-align: left;
+
+}
+
+#meu_nome  {
+    
+    font-size: 50px;
+    margin-left: 60px;
+
+}
+
+.linha_horizontal {
+
+    width: 600px;
+    border: 1px solid #000;
+
+}
+
+#resumo {
+
+    font-size: 30px;
+    margin-left: 30px;
+    margin-top: 60px;
+
+}
+
+.linha_horizontal2 {
+     
+    width: 600px;
+    border: 1px solid #000;
+
+}
+
+#historico {
+
+    font-size: 30px;
+    margin-left: 30px;
+    margin-top: 60px;
+}
+
+#formacao {
+
+    font-size: 30px;
+    margin-left: 30px;
+    margin-top: 60px;
+}
+
+.linha_horizontal3 {
+
+    width: 600px;
+    border: 1px solid;
+}
